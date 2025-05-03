@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-luis-f1rst",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "924d9d82-a76e-43a6-833b-9c3730523aa1",
+		"tenantId": "81db0fb2-9067-442e-b798-bc2a7bb2d657"
+	}
+}
